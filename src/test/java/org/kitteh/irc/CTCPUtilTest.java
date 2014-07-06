@@ -4,7 +4,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 /**
- * Test the pants of the CTCP conversion.
+ * Test the pants off the CTCP conversion.
  */
 public class CTCPUtilTest {
     private static final String CONVERTED = "\u0001Meow\u0016n\u0016rMe\u00160w\\aMeow\u0016\u0016\\\\\u0001";
